@@ -9,10 +9,13 @@ An engaging React-based quiz application featuring gamification elements, real-t
 ## 📸 Screenshots
 
 ### Start Screen
+![Start Screen](</Screensort/StartScreen.png>)
 
 ### Gameplay
+![Game Play](</Screensort/Gameplay.png>)
 
 ### Results Screen
+![Result](</Screensort/Result.png>)
 
 ## 🌟 Features
 
