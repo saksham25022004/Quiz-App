@@ -4,7 +4,7 @@ An engaging React-based quiz application featuring gamification elements, real-t
 
 ## 🔗 Live Demo
 
-- **Development Link**: [Quiz App ]()
+- **Development Link**: [Quiz App ](https://quiz-app-five-livid.vercel.app/)
 
 ## 📸 Screenshots
 
@@ -15,7 +15,7 @@ An engaging React-based quiz application featuring gamification elements, real-t
 ![Game Play](</Screensort/Gameplay.png>)
 
 ### Results Screen
-![Result](</Screensort/Result.png>)
+![Result Screen](</Screensort/ResultScreen.png>)
 
 ## 🌟 Features
 
